@@ -16,8 +16,9 @@ To run this project, ensure you have the following libraries installed:
 ```bash
 pip install pandas openai nltk
 ```
-##Usage
-1.Load the development test files.
-2.Generate random samples from the dataset.
-3.Evaluate the translations using the GPT-4 Mini model.
-4.Save the evaluation results to Excel files for further analysis.
+## Usage
+1. Load the development test files.
+2. Generate random samples from the dataset.
+3. Evaluate the translations using the GPT-4 Mini model.
+4. Save the evaluation results to Excel files for further analysis.
+
