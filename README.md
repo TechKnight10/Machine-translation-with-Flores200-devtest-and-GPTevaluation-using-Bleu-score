@@ -1,5 +1,5 @@
 # Machine-translation-with-Flores200-devtest
-# Machine Translation Model with GPT-4o Mini
+# Evaluation of Machine Translation Model with GPT-4o Mini and Bleu score
 
 ## Overview
 This project implements a machine translation model leveraging the FLORES-200 dataset to translate sentences between English and several Indian languages, including Hindi, Marathi, Gujarati, Bengali, Telugu, and Tamil. The model utilizes **GPT-4o Mini** for evaluating the translation and their quality using **BLEU scores**, a metric that assesses the accuracy of translations by comparing them to reference translations.
